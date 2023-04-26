@@ -1,7 +1,8 @@
 0x11. C - printf
 This Project was undertaken by Blessed Appiah and Joe Tetteh on 26/04/2023
-We emulkated the printf function
+We emulated the printf function
 
+compiled with gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 mandatory
